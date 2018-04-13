@@ -1,0 +1,938 @@
+[
+    {
+        "outputFile": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/res/merged/debug/values-sw/values-sw.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 102,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 102,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 208,
+                    "endColumn": 107,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 107,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 122,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 122,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 97,
+                    "endOffset": 532
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 97,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 537,
+                    "endColumn": 107,
+                    "endOffset": 640
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endColumn": 107,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 645,
+                    "endColumn": 89,
+                    "endOffset": 730
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 820,
+                        "endColumn": 89,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 735,
+                    "endColumn": 104,
+                    "endOffset": 835
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 104,
+                        "endOffset": 1010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 840,
+                    "endColumn": 116,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1015,
+                        "endColumn": 116,
+                        "endOffset": 1127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endColumn": 81,
+                    "endOffset": 1034
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1132,
+                        "endColumn": 81,
+                        "endOffset": 1209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1039,
+                    "endColumn": 100,
+                    "endOffset": 1135
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1214,
+                        "endColumn": 100,
+                        "endOffset": 1310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1140,
+                    "endColumn": 108,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1315,
+                        "endColumn": 108,
+                        "endOffset": 1419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endColumn": 98,
+                    "endOffset": 1343
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1424,
+                        "endColumn": 98,
+                        "endOffset": 1518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1348,
+                    "endColumn": 106,
+                    "endOffset": 1450
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1523,
+                        "endColumn": 106,
+                        "endOffset": 1625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1455,
+                    "endColumn": 108,
+                    "endOffset": 1559
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1630,
+                        "endColumn": 108,
+                        "endOffset": 1734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1564,
+                    "endColumn": 104,
+                    "endOffset": 1664
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1739,
+                        "endColumn": 104,
+                        "endOffset": 1839
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1669,
+                    "endColumn": 118,
+                    "endOffset": 1783
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1844,
+                        "endColumn": 118,
+                        "endOffset": 1958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1788,
+                    "endColumn": 96,
+                    "endOffset": 1880
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1963,
+                        "endColumn": 96,
+                        "endOffset": 2055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1885,
+                    "endColumn": 277,
+                    "endOffset": 2158
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 277,
+                        "endOffset": 602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2163,
+                    "endColumn": 129,
+                    "endOffset": 2288
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 607,
+                        "endColumn": 129,
+                        "endOffset": 732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2293,
+                    "endColumn": 187,
+                    "endOffset": 2476
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 737,
+                        "endColumn": 187,
+                        "endOffset": 920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2481,
+                    "endColumn": 126,
+                    "endOffset": 2603
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 925,
+                        "endColumn": 126,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2608,
+                    "endColumn": 127,
+                    "endOffset": 2731
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1052,
+                        "endColumn": 127,
+                        "endOffset": 1175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2736,
+                    "endColumn": 225,
+                    "endOffset": 2957
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1180,
+                        "endColumn": 225,
+                        "endOffset": 1401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2962,
+                    "endColumn": 236,
+                    "endOffset": 3194
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1406,
+                        "endColumn": 236,
+                        "endOffset": 1638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3199,
+                    "endColumn": 126,
+                    "endOffset": 3321
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1643,
+                        "endColumn": 126,
+                        "endOffset": 1765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3326,
+                    "endColumn": 187,
+                    "endOffset": 3509
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1770,
+                        "endColumn": 187,
+                        "endOffset": 1953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3514,
+                    "endColumn": 122,
+                    "endOffset": 3632
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1958,
+                        "endColumn": 122,
+                        "endOffset": 2076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3637,
+                    "endColumn": 182,
+                    "endOffset": 3815
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2081,
+                        "endColumn": 182,
+                        "endOffset": 2259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3820,
+                    "endColumn": 125,
+                    "endOffset": 3941
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2264,
+                        "endColumn": 125,
+                        "endOffset": 2385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3946,
+                    "endColumn": 142,
+                    "endOffset": 4084
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2390,
+                        "endColumn": 142,
+                        "endOffset": 2528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4089,
+                    "endColumn": 188,
+                    "endOffset": 4273
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2533,
+                        "endColumn": 188,
+                        "endOffset": 2717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4278,
+                    "endColumn": 152,
+                    "endOffset": 4426
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2722,
+                        "endColumn": 152,
+                        "endOffset": 2870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4431,
+                    "endColumn": 171,
+                    "endOffset": 4598
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2875,
+                        "endColumn": 171,
+                        "endOffset": 3042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4603,
+                    "endColumn": 136,
+                    "endOffset": 4735
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 3047,
+                        "endColumn": 136,
+                        "endOffset": 3179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4740,
+                    "endColumn": 197,
+                    "endOffset": 4933
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3184,
+                        "endColumn": 197,
+                        "endOffset": 3377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4938,
+                    "endColumn": 140,
+                    "endOffset": 5074
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3382,
+                        "endColumn": 140,
+                        "endOffset": 3518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 5079,
+                    "endColumn": 252,
+                    "endOffset": 5327
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 252,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 5332,
+                    "endColumn": 258,
+                    "endOffset": 5586
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3523,
+                        "endColumn": 258,
+                        "endOffset": 3777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 5591,
+                    "endColumn": 124,
+                    "endOffset": 5711
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3782,
+                        "endColumn": 124,
+                        "endOffset": 3902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5716,
+                    "endColumn": 107,
+                    "endOffset": 5819
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3907,
+                        "endColumn": 107,
+                        "endOffset": 4010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5824,
+                    "endColumn": 184,
+                    "endOffset": 6004
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 4015,
+                        "endColumn": 184,
+                        "endOffset": 4195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 6009,
+                    "endColumn": 128,
+                    "endOffset": 6133
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4200,
+                        "endColumn": 128,
+                        "endOffset": 4324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 6138,
+                    "endColumn": 208,
+                    "endOffset": 6342
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4329,
+                        "endColumn": 208,
+                        "endOffset": 4533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 6347,
+                    "endColumn": 135,
+                    "endOffset": 6478
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4538,
+                        "endColumn": 135,
+                        "endOffset": 4669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 6483,
+                    "endColumn": 188,
+                    "endOffset": 6667
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4674,
+                        "endColumn": 188,
+                        "endOffset": 4858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 6672,
+                    "endColumn": 97,
+                    "endOffset": 6765
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4863,
+                        "endColumn": 97,
+                        "endOffset": 4956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 6770,
+                    "endColumn": 104,
+                    "endOffset": 6870
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4961,
+                        "endColumn": 104,
+                        "endOffset": 5061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 6875,
+                    "endColumn": 124,
+                    "endOffset": 6995
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-sw/values.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 5066,
+                        "endColumn": 124,
+                        "endOffset": 5186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 7000,
+                    "endColumn": 100,
+                    "endOffset": 7096
+                },
+                "from": {
+                    "file": "/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw/values-sw.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2060,
+                        "endColumn": 100,
+                        "endOffset": 2156
+                    }
+                }
+            }
+        ]
+    }
+]

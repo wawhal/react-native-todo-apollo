@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/wawhal/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_252bb5051f9e319f87a447602882b0b47bdca885.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_37954339413825ba2e342dd639d462a3bc6cb7db.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_8ce76ef52cade50b442214b2f8e60dfd34adbf1c.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_4e48ae7b40a892b17a7e532c53a4d1c3d3ccc5cf.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_c39412041cc9fa3633edb1938b8629bab3a262cf.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_fa610218983aa7e91689a6152afbeb842b8cfc9b.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.2.1_ecbcf42f42ce82427f6badbd71b9eeffb755998e.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_0d467c86f0818eca782ecae8501804ce78635f4b.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_b92b8cc1ec0d7676e8528d81fbcc7a2a48b8f605.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_5101ec30c00afd506eda7c141678c87e517db8f6.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.2.1_01733bde9dc3f6dc30fc7c4a87e8b26b2ba6ded2.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.2.1_77157162b06affa3781e75e924748fafb3d6d306.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.2.1_8f08e117f69ac5af680c7cf5d5e2712ce6e46a0a.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_2e413abb451c8077acb975c82da8dd02f191fb67.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_0bec1f11b43993c028d432803254fb6202d3c304.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/vanilla/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="90ccc7bfce2d173c119bb360554caed508784867">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/vanilla-react-native-vector-icons-unspecified_d9e0240b6d91f9e36e459636e17a5861255368d8.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9236445249b688377917bbf182bb651ba5a9c5f1">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.54.4_fc1ef9860cce6d4654f07e16b637d462d71b9991.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_67516ac5b7b18502273dee860ff93c654f58e847.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_6a9dc8ffa7352fb459df0ca9c80d00607b3d2547.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/vanilla/react-native-google-signin/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c1f566ab2396a873253da014f6bee7804d965b95">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/vanilla-react-native-google-signin-unspecified_47bbe38d6d99c9c0668c562a22b3591c524e1d4d.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.2.1_22d8275f0de3fc57453a4914de4c99e42f827167.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_8a5643b4e7dea633012b4e21841ad6b802afa453.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_e19c1a8ad71f182536e8db291b4bab52419966b7.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.2.1_e9d2a1887d2b962e9ee541029331568fc01aec02.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_0dbbd2091c26d63514add7d400c5076a68f997c1.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.2.1_0883a58bb4fc772f6f716fed525cd1c6faa61f60.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.2.1_998ef682534bc13641370e0ce96c0a0a6aaeb9ac.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.2.1_0313272aaf4cc71b160fcec8cff5a428f5e1a5ce.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_b25e2208d5e4c83b6fe63ee284c83b3fcb643d61.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_643f9adad91d596a58c7cc7240328e29dfdd8f63.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_6e2108ec857ba81fed0850eb812a23beb4f41315.jar" />
+    </item>
+    <item
+        jar="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/wawhal/workspace/maintained-repos/react-native-todo-apollo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_782a0e6936e23497e2c9224ce06a027c2cbf9818.jar" />
+    </item>
+
+</items>
